@@ -43,7 +43,7 @@ function Header() {
       <nav>
         <NavList>
           
-        <a href="#" className="logo">SSG Cloud Engineer</a>
+        <a href="/" className="logo">SSG Cloud Engineer</a>
           <NavItem><a href="/">Home</a></NavItem>
           <NavItem><a href="/attendance">Attendance</a></NavItem>
           <NavItem><a href="/Notice">Noitce</a></NavItem>
