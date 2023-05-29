@@ -43,7 +43,7 @@ function Footer() {
         <FooterLinkList>
           <FooterLinkItem><a href="/terms">Terms of Service</a></FooterLinkItem>
           <FooterLinkItem><a href="/privacy">Privacy Policy</a></FooterLinkItem>
-          <FooterLinkItem><a href="/contact">Contact Us</a></FooterLinkItem>
+          <FooterLinkItem><a href="/contact">Contact</a></FooterLinkItem>
         </FooterLinkList>
       </div>
     </FooterContainer>

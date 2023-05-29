@@ -28,19 +28,30 @@ const NavItem = styled.li`
     }
   }
 `;
+const styledcomponent= styled.a`
+
+font-size: 14px;
+color: #ce2239;
+text-decoration: none;
+margin-right: auto;
+`
+;
 
 function Header() {
   return (
     <HeaderContainer>
       <nav>
         <NavList>
+          
+        <a href="#" className="logo">SSG Cloud Engineer</a>
           <NavItem><a href="/">Home</a></NavItem>
-          <NavItem><a href="/courses">Courses</a></NavItem>
+          <NavItem><a href="/attendance">Attendance</a></NavItem>
+          <NavItem><a href="/Notice">Noitce</a></NavItem>
           <NavItem><a href="/drive">Drive</a></NavItem>
           <NavItem><a href="/blog">Blog</a></NavItem>
           <NavItem><a href="/qnaboard">QnAboard</a></NavItem>
-          <NavItem><a href="/about">About</a></NavItem>
           <NavItem><a href="/restaurantReviews">RestaurantReviews</a></NavItem>
+          <NavItem><a href="https://jeong5575.vercel.app/">About</a></NavItem>
         </NavList>
       </nav>
     </HeaderContainer>
