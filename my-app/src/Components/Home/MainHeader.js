@@ -9,7 +9,7 @@ const MainHeader = () => {
         </ul>
       </nav>
       <div className="hero-content">
-        <h1 className="hero-title">Welcome to Cloud Engineering Training Program</h1>
+        <h1 className="hero-title">Welcome to Cloud Engineer Training Program</h1>
         <p className="hero-description">
           Learn to code and unlock your full potential.
         </p>
