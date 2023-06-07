@@ -4,8 +4,7 @@ const MainHomePage = () => {
   return (
     <div>
       <MainHeader />
-      {/* Add other sections and components for the main homepage */}
-    </div>
+          </div>
   );
 };
 
